@@ -3,6 +3,6 @@ GraphRAG (Graph Retrieval-Augmented Generation) is a technique that enhances inf
 
 # Reference
 ▶︎[From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)
-　Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Dasha Metropolitansky, 　Robert Osazuwa Ness, Jonathan Larson
+　Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Dasha Metropolitansky, 　Robert Osazuwa Ness, Jonathan Larson<br/>
 ▶︎[Welcome to GraphRAG](https://microsoft.github.io/graphrag/)
  Microsoft
